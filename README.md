@@ -6,10 +6,10 @@
 HomePage()
 ```
 2. Detail page using providers
-```http
+```flutter
 Page2()
 ```
 3. Camera
-```http
+```flutter
 Page3()
 ```
